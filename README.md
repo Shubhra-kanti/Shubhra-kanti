@@ -1,12 +1,39 @@
 ## 🧑‍💻 Hi there, I’m Shubhra Kanti Banerjee!
 
-Welcome to my GitHub profile 👋
+👋 Welcome to My GitHub Profile
+🧠 Machine Learning Developer | 🌐 Web Developer | 🚀 Tech Explorer
 
-🎓 Engineering Student | Web Developer | Tech Enthusiast
+I’m an engineering student passionate about creating intelligent digital experiences by combining Machine Learning with Modern Web Development.
 
-💡 Passionate about building user-friendly web applications, exploring modern web technologies, and solving real-world problems through code.
-🌱 Currently learning Full Stack Web Development (HTML, CSS, JavaScript, Firebase, and APIs).
-🚀 Always curious about software design, UI/UX, and data-driven applications.
+🔍 What I Do
+
+🤖 Machine Learning: Building predictive models, working with datasets, training algorithms, and exploring AI-powered applications.
+
+🕸️ Web Development: Designing and developing responsive, user-friendly web apps with HTML, CSS, JavaScript, and modern frameworks.
+
+🔗 ML + Web Integration: Creating smart web applications powered by ML models, APIs, and automation workflows.
+
+📊 Interested in data analysis, feature engineering, and deploying ML models to production-ready web interfaces.
+
+🌱 Currently Learning
+
+Machine Learning (Supervised/Unsupervised Learning, Regression, Classification)
+
+Deep Learning Basics (Neural Networks, TensorFlow/PyTorch fundamentals)
+
+Web Technologies (JavaScript, APIs, Firebase, Backend essentials)
+
+Model deployment using Flask, FastAPI, and cloud platforms
+
+💡 Goals
+
+Build full-stack AI-based projects
+
+Develop automated, data-driven platforms
+
+Explore real-world ML problem-solving
+
+Contribute to open-source ML + Web projects
 
 
 ## 🌐 Connect With Me
