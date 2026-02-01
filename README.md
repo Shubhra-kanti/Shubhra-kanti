@@ -70,7 +70,7 @@ https://shubhra-kanti-portfolio.netlify.app/
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" width="50" height="50"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/Librosa_logo.png" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/librosa/librosa/main/docs/img/librosa_logo_text.png" width="90" height="50"/>
 </p>
 
 ---
